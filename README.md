@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **Vikashpapa532@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yVhtj9guROF2MPZEw9vRkqSFbpy8nnBR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1K8_sJXi7FbBnB3ldJJkvr5xlHRDBbAmfUvXngxN8wwI/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a PhotoGrapher**
     <hr/>
@@ -101,13 +101,13 @@ You can click the Preview link to take a look at your changes.
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/SwarajN"><img alt="Swaraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SwarajN&custom_title=Swaraj_R_Nikam's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Vikashwar"><img alt="Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vikashwar&custom_title=Swaraj_R_Nikam's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/swaraj-nikam-7889a4137/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:Nikamswaraj111@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://twitter.com/swarajn"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/vikash-vishal-b2692b218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:Vikashpapa532@gmail.com"><a href ="mailto:vikashvishal532@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
