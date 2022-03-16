@@ -109,5 +109,5 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href = "https://www.linkedin.com/in/vikash-vishal-b2692b218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:Vikashpapa532@gmail.com"><a href ="mailto:vikashvishal532@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/VikashK33194138"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
