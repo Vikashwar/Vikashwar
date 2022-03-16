@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/Vikashwar?tab=followers">
-    <img src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GitHub Badge"></a>
+    <img src="https://img.shields.io/github/followers/SwarajN?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/SwarajN/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SwarajN">
 </a>
@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
 <p align="center">
-<!--       <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" /> -->
+     <img src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
     
-![animation_500_kxa883sd](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
+<!-- ![animation_500_kxa883sd](http://www.iap-tv.com/wtfriday-netflix-and-chill/) -->
 </p>
 
 
