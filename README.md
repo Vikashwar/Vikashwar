@@ -96,12 +96,12 @@ You can click the Preview link to take a look at your changes.
  <br>
  
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajN&theme=algolia" alt="Dheeraj" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashwar&theme=algolia" alt="Vikashwar" /></p>
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Vikashwar"><img alt="Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vikashwar&custom_title=Swaraj_R_Nikam's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Vikashwar"><img alt="Vikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vikashwar&custom_title=Vikash_kr_Vishal's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
