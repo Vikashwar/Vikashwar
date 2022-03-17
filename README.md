@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Vikashwar?tab=followers">
     <img src="https://img.shields.io/github/followers/SwarajN?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/SwarajN/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SwarajN">
+<a href="https://github.com/Vikashwar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Vikashwar">
 </a>
 
 <h1 align="left">Hi 👋 I'm Vikash Kumar</h1>
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](Link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vikash-portfolio123.netlify.app/)
 
 - 📫 How to reach me **Vikashpapa532@gmail.com**
 
