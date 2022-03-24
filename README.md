@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vikash-portfolio123.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vikash-kumar-portfolio.netlify.app/)
 
 - 📫 How to reach me **Vikashpapa532@gmail.com**
 
